@@ -29,7 +29,7 @@ const options = {
     },
     servers: [
       {
-        url: 'https://api-p3-production.up.railway.app',
+        url: '/',
       },
     ],
   },
