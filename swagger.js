@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000',
+        url: 'api-p3-production.up.railway.app',
       },
     ],
   },
